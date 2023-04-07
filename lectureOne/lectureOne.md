@@ -96,7 +96,7 @@ granting limited access to the host's resources. Agoric smart contracts are an e
 In a web browser, an iframe is a realm. In Node.js, a Node process is a realm. [1]
 
 ## Execution Environment
-![](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop/the_javascript_runtime_environment_example.svg)
+![](images/executionEnvironment.png)
 
 _Figure 2: JavaScript Runtime Environment Example_
 
