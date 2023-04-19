@@ -1,0 +1,51 @@
+{
+  "name": "codeSamples-api",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Agoric Dapp web server handler",
+  "type": "module",
+  "scripts": {
+    "build": "exit 0",
+    "test": "exit 0",
+    "lint": "eslint '**/*.{js,jsx}'",
+    "lint-fix": "eslint --fix '**/*.{js,jsx}'",
+    "lint-check": "eslint '**/*.{js,jsx}'",
+    "lint-fix-jessie": "eslint -c '.eslintrc-jessie.js' --fix '**/*.{js,jsx}'",
+    "lint-check-jessie": "eslint -c '.eslintrc-jessie.js' '**/*.{js,jsx}'"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-jessie": "^0.0.6",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-jsdoc": "^39.3.3",
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "@endo/eventual-send": "^0.15.5",
+    "@endo/marshal": "^0.6.9",
+    "@agoric/zoe": "beta"
+  },
+  "eslintConfig": {
+    "extends": [
+      "@agoric"
+    ]
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agoric/agoric"
+  },
+  "author": "Agoric",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Agoric/agoric/issues"
+  },
+  "homepage": "https://github.com/Agoric/agoric#readme"
+}
