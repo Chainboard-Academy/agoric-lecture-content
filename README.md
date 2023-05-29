@@ -11,6 +11,6 @@ We will be updating this repository with our lecture content as we deliver the l
 |    5    |            [REPL and Deploy Scripts](https://github.com/Chainboard-Academy/agoric-lecture-content/tree/main/lectureFive)            |
 |    6    |          [Notifiers and Subscriptions](https://github.com/Chainboard-Academy/agoric-lecture-content/tree/main/lectureSix)           |
 |    7    |      [Multiuser Dapps, Lending Protocol](https://github.com/Chainboard-Academy/agoric-lecture-content/tree/main/lectureSeven)       |
-|    8    |                                            Agoric pre-built contracts & Price Authority                                             |
+|    8    |      [Agoric pre-built contracts & Price Authority](https://github.com/Chainboard-Academy/agoric-lecture-content/tree/main/lectureEight)|
 |    9    |                                                         The Inter Protocol                                                          |
 |   10    |                                                               Wrap-up                                                               |
