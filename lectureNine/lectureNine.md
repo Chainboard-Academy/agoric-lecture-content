@@ -36,7 +36,6 @@ value of the collateral should be compared to the requested IST.
 
 `Economic Committee` is governance parameters that are crucial to Agoric Economy. These parameters include
 * Debt Limits
-* Supported Collateral Types
 * Interest Rates
 * Collateralization Ratio
 
