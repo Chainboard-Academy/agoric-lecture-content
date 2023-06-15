@@ -195,8 +195,8 @@ if one trade fails, others can keep functioning as expected.
 ### VaultFactory
 `VaultFactory` is another alternative for purchasing IST. Since IST is a fully collateralized stablecoin, users can only
 exchange IST against some collateral. `VaultFactory` is similar to `PSM` in this sense. The difference lies within 
-the type of collateral accepted. `VaultFactory` can accept any type of ERTP asset as collateral as long as the 
-`Economic Commitee` approves it whereas `PSM` only accepts stablecoins. This significant difference causes one other
+the type of collateral accepted. `VaultFactory` can accept any type of ERTP asset as collateral as long as 
+BLD staker governance approves it whereas `PSM` only accepts stablecoins. This significant difference causes one other
 major difference and that is `over-collateralization`. `PSM` trades with other stablecoins in 1:1 ratio, meaning 
 the value of the collateral is equal to received IST value. Since crypto assets can be very volatile, minting IST
 in a 1:1 ratio with another crypto asset would risk IST's value. Remember, IST is a fully-collateralized asset, so
