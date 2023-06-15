@@ -115,7 +115,7 @@ The relationship between `WalletFactory` and `SmartWallet` can be observed below
 
 ### PSM
 The Parity Stability Module(PSM) is similar to [The Peg Stability Module](https://mips.makerdao.com/mips/details/MIP29#sentence-summary)
-of MakerDAO. The basic idea is to mint IST against other stable coins in 1:1 ratio. `Economic Commitee` decides which 
+of MakerDAO. The basic idea is to mint IST against other stable coins in 1:1 ratio. BLD staker governance decides which 
 stablecoins are supported as collaterals. For a given instance of `PSM`, meaning a market that mints IST against a
 particular type of stablecoin, `Economic Commitee` also governs below parameters;
  
