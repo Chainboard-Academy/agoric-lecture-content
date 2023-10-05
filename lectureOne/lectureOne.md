@@ -38,9 +38,9 @@ The [SES Guide](https://github.com/endojs/endo/blob/master/packages/ses/docs/gui
 - Adds functionality to freeze and make immutable both built-in JavaScript
   objects and program created objects.
 
-### Principals of Hardened JavaScript
+### Principles of Hardened JavaScript
 `Hardened JavaScript` aims to bring security to JavaScript by actually removing insecurities. In order to enforce security, it relies on 
-two principals;
+two principles;
 * **OCaps(Object Capabilities)**: _SES Guide[4]_ describes OCaps discipline as below;<br>
   "Any programming environment fitting the OCaps model satisfies three requirements:
   * Any program can protect its invariants by hiding its own data and capabilities.
@@ -52,7 +52,7 @@ two principals;
   or conspiring with or against the user or each other."
 
 
-* **POLA(Principal of Least Authority):** A general definition might be;
+* **POLA(Principle of Least Authority):** A general definition might be;
 
   "_The Principle of Least Authority (POLA) says that code should be granted only the authority it needs to perform its task and no more._"[5]
 

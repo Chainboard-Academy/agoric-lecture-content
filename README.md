@@ -14,3 +14,11 @@ We will be updating this repository with our lecture content as we deliver the l
 |    8    |      [Agoric pre-built contracts & Price Authority](https://github.com/Chainboard-Academy/agoric-lecture-content/tree/main/lectureEight)|
 |    9    |      [The Inter Protocol](https://github.com/Chainboard-Academy/agoric-lecture-content/tree/main/lectureNine)                       |
 |   10    |                                                               Wrap-up                                                               |
+
+## Video Recordings
+
+[Video recordings of lectures](https://www.youtube.com/watch?v=wWQxJnmZttE&list=PLZUbmHar_o80AEV_JjoxLZwxFIc-8uQAq)  are also available:
+
+[![image](https://user-images.githubusercontent.com/150986/246455493-84a4c171-7e56-47dd-b413-47e19b0d6aee.png)](https://www.youtube.com/watch?v=wWQxJnmZttE&list=PLZUbmHar_o80AEV_JjoxLZwxFIc-8uQAq)
+
+ - [Agoric x Chainboard Academy Bootcamp](https://www.youtube.com/watch?v=wWQxJnmZttE&list=PLZUbmHar_o80AEV_JjoxLZwxFIc-8uQAq)
