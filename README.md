@@ -1,9 +1,6 @@
 # Chainboard Academy Agoric Bootcamp
 We will be updating this repository with our lecture content as we deliver the lectures.
 
-## Next Intake
-Click [this link](https://b1080sp4jil.typeform.com/to/G0N8AyPW) to join our next intake!
-
 ## Course Overview
 | Lecture |                                                               Subject                                                               |
 |:-------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
