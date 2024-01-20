@@ -165,7 +165,7 @@ Okay we achieved the assyability thanks to the `Issuer`. What about exclusivity?
 are exercised. Thus we can make sure one invitation is only used ONCE. So Fred can know he's the only one exercised this
 right.
 
-#### How do intivations help to achieve `Higher-Order Composition`?
+#### How do invitations help to achieve `Higher-Order Composition`?
 So far we've been talking about how invitations work and what they actually are. Great, but how does it help from the
 higher-order composition point of view?
 
